@@ -1,0 +1,4 @@
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New add operation: 5 add 6","service":"calculator-microservice"}
+{"level":"error","message":"value1 and value2 must be numbers","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation: 3 multiply 4","service":"calculator-microservice"}
